@@ -8,7 +8,8 @@
     <configVersion>2</configVersion>
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
-        <url>git://github.com/MarkEWaite/JENKINS-22457-included-region-ignored.git</url>
+        <url>git@github.com:MarkEWaite/JENKINS-22457-included-region-ignored.git</url>
+        <credentialsId>f5e3d568-72c3-4104-aa92-e327544272d2</credentialsId>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
     <branches>
